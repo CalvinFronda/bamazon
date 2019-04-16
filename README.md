@@ -11,7 +11,7 @@ Bamazon is a mock store like Amazon where customers can pick an item from the li
 
 ![](manager.gif)
 
-##MySql
+## MySQL
 ![](mysql.png)
 ## Technologies Utilized
 * NodeJs 
