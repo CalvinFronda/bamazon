@@ -5,9 +5,11 @@ Bamazon is a mock store like Amazon where customers can pick an item from the li
 
 ## Customer View
 
+![](customer.gif)
+
 ## Manager View
 
-
+![](manager.gif)
 ## Technologies Utilized
 * NodeJs 
 * JavaScript
